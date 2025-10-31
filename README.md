@@ -44,3 +44,21 @@ python manage.py migrate
 
 # 7️⃣ Start the development server
 python manage.py runserver
+
+```
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 🧾 Register Page
+![Register Page](screenshots/register.png)
+
+### ✅ Tasks Dashboard
+![Tasks Page](screenshots/tasks.png)
