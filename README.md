@@ -61,4 +61,4 @@ python manage.py runserver
 ![Register Page](screenshots/register.png)
 
 ### ✅ Tasks Dashboard
-![Tasks Page](screenshots/tasks.png)
+![Tasks Page](screenshots/user.png)
